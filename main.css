@@ -1,0 +1,21 @@
+nav {
+    background-color: violet;
+    max-width: 50%;
+}
+
+main {
+    background-color:pink; 
+    max-width: 25%;
+}
+
+aside {
+    background-color: aqua;
+    max-width: 25%;
+}
+
+.clear {
+    clear: left;
+}
+.float-left {
+    float: left;
+}
